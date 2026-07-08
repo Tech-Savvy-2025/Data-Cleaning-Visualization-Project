@@ -18,8 +18,7 @@ This project focuses on cleaning and visualizing the SuperStore Sales dataset us
 - Sales & Profit Analysis
 - Region and Category-wise Insights
 
-## Dashboard Preview
-![Dashboard](sales dashboard.png)
+
 
 ## Author
 Your Name
